@@ -38,6 +38,10 @@ namespace CMP1903M_Assessment_1_Base_Code
             //10. number of total characters
             Console.WriteLine("Number of total characters: " + totalCharCount);
             System.Environment.Exit(0);
+
+            //Promps User to exit
+            Console.WriteLine("Please press Enter (↩) to exit");
+            Console.ReadLine();
         }
     }
 }

@@ -20,14 +20,15 @@ namespace CMP1903M_Assessment_1_Base_Code
         {
             Console.WriteLine("\nYou may now enter your text.\nPlease enter a sentence at a time (Pressing 'Enter' at the end of the sentence).\nPlease use full stop (.) when finishing a sentence!\nTo end your submission please use a singular asterisk (*) on a new line.\n");
             Console.WriteLine("Your text: "); //Prompts User to input text
-            string input = Console.ReadLine();  // Takes user input
+            string input = Console.ReadLine();  // Takes User input
+
+            //Detects if input is an asterisk, and if so stops User input
             text += input;
             while (input != "*")
             {
                 input = Console.ReadLine();
                 text += input;
             }
-            //Input.fileTextInput("CMP1903M Assessment 1 Test File.txt");
             string input2 = input;
 
             //Analyses text
