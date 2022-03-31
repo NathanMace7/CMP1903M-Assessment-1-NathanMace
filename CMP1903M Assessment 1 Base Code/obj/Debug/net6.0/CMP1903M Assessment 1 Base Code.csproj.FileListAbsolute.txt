@@ -1,0 +1,15 @@
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.csproj.AssemblyReference.cache
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.AssemblyInfoInputs.cache
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.AssemblyInfo.cs
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.csproj.CoreCompileInputs.cache
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\CMP1903M Assessment 1 Base Code.exe
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\CMP1903M Assessment 1 Base Code.deps.json
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\CMP1903M Assessment 1 Base Code.runtimeconfig.json
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\CMP1903M Assessment 1 Base Code.dll
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\ref\CMP1903M Assessment 1 Base Code.dll
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net6.0\CMP1903M Assessment 1 Base Code.pdb
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.dll
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\ref\CMP1903M Assessment 1 Base Code.dll
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.pdb
+D:\University\2021-2022\Object Oriented Programming\Assignments\Assignment 1\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net6.0\CMP1903M Assessment 1 Base Code.genruntimeconfig.cache
