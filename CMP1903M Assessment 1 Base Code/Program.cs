@@ -16,9 +16,10 @@ namespace CMP1903M_Assessment_1_Base_Code
             //Bool used for continuing the program after a choice is made.
             bool continuepar = false;
 
-            //Create 'Input' object
-            //Get either manually entered text, or text from a file
-            
+            //Base Code:
+            ///Create 'Input' object
+            ///Get either manually entered text, or text from a file
+
             //Promps User to choose between 1 and 2
             Console.WriteLine("Which input would you like to choose?\nType in '1' for text input\nType in '2' for an already located file input");
             Console.WriteLine("Please Choose: ");

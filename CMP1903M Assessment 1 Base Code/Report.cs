@@ -8,10 +8,12 @@ namespace CMP1903M_Assessment_1_Base_Code
 {
     class Report
     {
-        //Handles the reporting of the analysis
-        //Maybe have different methods for different formats of output?
-        //eg.   public void outputConsole(List<int>)
-        public static void outputConsole(int sentenceCount, int charCount, int vowelCount,int consCount, int upperCount, int lowerCount, int numCount, int symbCount, int spaceCount,int totalCharCount)//List<int>
+        //Base Code:
+        ///Handles the reporting of the analysis
+        ///Maybe have different methods for different formats of output?
+
+        //Change from Base Code: List is not used
+        public static void outputConsole(int sentenceCount, int charCount, int vowelCount,int consCount, int upperCount, int lowerCount, int numCount, int symbCount, int spaceCount,int totalCharCount)
         {
             //List of integers to hold the first five measurements:
             //Creates a space

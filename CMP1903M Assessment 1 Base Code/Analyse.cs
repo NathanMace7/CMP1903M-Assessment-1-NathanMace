@@ -10,10 +10,13 @@ namespace CMP1903M_Assessment_1_Base_Code
     
     public class Analyse
     {
-        //Method: analyseText
-        //Arguments: string
-        //Returns: list of integers
-        //Calculates and returns an analysis of the text
+        //Base Code:
+        ///Method: analyseText
+        ///Arguments: string
+        ///Returns: list of integers
+        ///Calculates and returns an analysis of the text
+
+        //Change from Base Code: List is not returned
         public static List<int> analyseText(string input)
         {
             //list of integers to hold the first five measurements:

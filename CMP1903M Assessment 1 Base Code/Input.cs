@@ -8,14 +8,14 @@ namespace CMP1903M_Assessment_1_Base_Code
 {
     public static class Input
     {
-        
-        //Handles the text input for Assessment 1
+        //Base Code:
+        ///Handles the text input for Assessment 1
         static string text = "";
 
-        //Method: manualTextInput
-        //Arguments: none
-        //Returns: string
-        //Gets text input from the keyboard
+        ///Method: manualTextInput
+        ///Arguments: none
+        ///Returns: string
+        ///Gets text input from the keyboard
         public static string manualTextInput()
         {
             Console.WriteLine("\nYou may now enter your text.\nPlease enter a sentence at a time (Pressing 'Enter' at the end of the sentence).\nPlease use full stop (.) when finishing a sentence!\nTo end your submission please use a singular asterisk (*) on a new line.\n");
@@ -36,11 +36,12 @@ namespace CMP1903M_Assessment_1_Base_Code
             return text;
         }
 
-        //Method: fileTextInput
-        //Arguments: string (the file path)
-        //Returns: string
-        //Gets text input from a .txt file
-        
+        //Base Code:
+        ///Method: fileTextInput
+        ///Arguments: string (the file path)
+        ///Returns: string
+        ///Gets text input from a .txt file
+
         public static string fileTextInput(string fileName)
         {
             text = File.ReadAllText(fileName);
